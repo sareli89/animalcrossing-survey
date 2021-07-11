@@ -20,6 +20,9 @@ h1 {
 h1 + p {
   margin-top: 0px;
 }
+input:placeholder-shown {
+  border-right: 20px;
+}
 
 form {
   background-color: #f8c291;
