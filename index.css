@@ -60,10 +60,13 @@ form {
 button{
   background-color: #fad390;
   border: 1px solid #fad390;
-  border-radius: 2px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 1px #f7e5e5;
   font-family: inherit;
   font-size: 16px;
-  display: block;
+  height: 35px;
   padding:8px;
-  width: 100%;
+  width: 30%;
+  justify-content: center;
+  align-items: center;
 }
